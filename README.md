@@ -11,5 +11,6 @@ Run `Insert_TH2ENGlexicon_highlightTH.py` to find Find matching Thai terms, inse
 The processed file (with lexicon and highlights) will be saved as `Sustainable AI article_highlightedTH_lexiconENG.docx`
  
 < NOTE > \
-Requirement: `!pip install python-docx`
+* Requirement: `!pip install python-docx`
+* After inserting the lexicon and highlighting,the Word document’s template and styles may change.
 
